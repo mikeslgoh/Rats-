@@ -1,0 +1,11 @@
+
+*.unity
+*.meta
+Rats_Testing/Library/
+*.asset
+*.info
+*.bin
+*.log
+*.txt
+*.prefs
+*.dwlt
