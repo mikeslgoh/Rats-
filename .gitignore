@@ -2,6 +2,8 @@
 *.unity
 *.meta
 Rats_Testing/Library/
+Rats_Testing/Temp/
+Rats_Testing/UnityPackageManager/
 *.asset
 *.info
 *.bin
