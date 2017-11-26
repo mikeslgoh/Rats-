@@ -3,7 +3,11 @@
 *.meta
 Rats_Testing/Library/
 Rats_Testing/Temp/
+Rats_Testing/Assets/Oculus/
+Rats_Testing/Assets/VRTK/
 Rats_Testing/UnityPackageManager/
+Rats_Testing/Assets/Plugins/
+Rats_Testing/Assets/Resources/
 *.asset
 *.info
 *.bin

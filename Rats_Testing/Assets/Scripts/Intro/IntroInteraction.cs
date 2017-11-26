@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿/*
 using UnityEngine;
 
 public class IntroInteraction : MonoBehaviour {
@@ -26,3 +25,4 @@ public class IntroInteraction : MonoBehaviour {
         }
     }
 }
+*/
